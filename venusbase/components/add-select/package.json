@@ -1,0 +1,8 @@
+{
+  "name": "multiselect",
+  "version": "1.0.0",
+  "meta": {
+    "title": "multiselect",
+    "component": "add-multiselect"
+  }
+}
